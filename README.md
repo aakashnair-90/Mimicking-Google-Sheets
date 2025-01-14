@@ -1,12 +1,5 @@
 # MMM-GoogleSheets
 
-__NOTE: If you use this module, please send me example images that I can include in the bottom of this page so others can be inspired by your work!__
-
-This a module for MagicMirror²
-
-https://magicmirror.builders/
-
-https://github.com/MagicMirrorOrg/MagicMirror
 
 This module displays data from Google Sheets Spreadsheets on the MagicMirror². Any data that you can display on a spreadsheet you can now display on your MM! Create your own custom dashboard, stay up to date on important data, or even create your own custom modules in Google Sheets without having to write the code.
 
@@ -321,17 +314,8 @@ Google Apps Script was chosen instead of the Google Sheets API because the [Shee
 
 This is [default behavior](https://developers.google.com/sheets/api/quickstart/apps-script) for a Google Apps Script being deployed for the first time. If you are uncomfortable deploying it without seeing the code, see [this section](#google-apps-script-library) above
 
-## In the Wild
 
-Send me pictures of your Google Sheets module and I'll add them here
 
-## Bugs & Feature Requests
 
-If you find an issue or want a new feature, [add it as an issue](https://github.com/ryan-d-williams/MMM-GoogleSheets/issues) and I'll be happy to (try to) make it happen
-
-## Attributions
-
-I used @jclarke0000's DarkSky module as a template to build this module
-https://github.com/jclarke0000/MMM-DarkSkyForecast
 
 **NOTE:** This module uses the Nunjucks templating system introduced in version 2.2.0 of MagicMirror².  If you're seeing nothing on your display where you expect this module to appear, make sure your MagicMirror² version is at least 2.2.0.
